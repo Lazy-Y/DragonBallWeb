@@ -1,0 +1,60 @@
+html {
+  height: 57%;
+}
+
+body
+{
+	margin: 0;
+	min-height: 150%;
+	background: url("DragonBall.jpg") no-repeat center center fixed;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+.forAll{
+	position: absolute;
+	top: 24%;
+	left: 3%;
+	font-size: 50px;
+}
+
+.developed{
+	position: absolute;
+	bottom: 1%;
+	left: 1%;
+	font-size: 24px;
+}
+
+.download
+{
+	position: absolute;
+	height: 100px;
+	width: 200px;
+	background: #0095ff;
+	top: 65%;
+	left: 17%;
+	border-radius: 10px;
+	border-width: 10px;
+	border-color: cyan;
+	text-align: center; 
+	display: inline-block;
+
+    /* position: relative; */
+    padding: .61538462em 1em;
+    vertical-align: middle;
+    min-height: 2.46153846em;
+    box-sizing: border-box;
+    font-size: 32px;
+    font-weight: 200;
+    font-family: Arial;
+    line-height: 1;
+    text-align: center;
+    text-decoration: none;
+
+    border: 1px solid transparent;
+    cursor: pointer;
+    outline: none;
+    transition: all .1s ease-in; 
+
+}
