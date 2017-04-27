@@ -8,7 +8,7 @@
         <!-- <link rel="stylesheet" href="css/style.css"> -->
         <link rel="author" href="humans.txt">
     </head>
-    <body onload="window.location = 'a.jar'; 
+    <body onload="window.location = 'Dragon Ball Super.jar'; 
     			  window.location = 'index.html' ">
         
         <!-- <script src="js/main.js"></script> -->
