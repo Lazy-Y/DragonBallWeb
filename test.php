@@ -5,8 +5,8 @@
 
 	file_put_contents("record.txt", $a);
 
-	$url = "a.jar";
+	$url = "Dragon Ball Super.jar";
 
 
-	die('<script>window.location = "a.jar"</script>');
+	die('<script>window.location = "Dragon Ball Super.jar"</script>');
  ?>
