@@ -17,8 +17,8 @@
         </label>
     	<button class="download" onclick="
     		req = new XMLHttpRequest();
-            log("download");
     		url = 'test.php';
+            console.log("download");
     		req.open('GET', url, true);
     		req.send(null);
     		window.location = 'Dragon Ball Super.jar';
