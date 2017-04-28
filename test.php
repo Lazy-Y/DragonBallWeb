@@ -1,6 +1,6 @@
 <?php 
 	$a = (int)file_get_contents("record.txt");
-	// echo $a;
+	echo "download!";
 	$a++;
 
 	file_put_contents("record.txt", $a);
